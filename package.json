@@ -27,7 +27,8 @@
     "mkdirp": "*",
     "express": "~ 3",
     "async": "*",
-    "imagesize": "*"
+    "imagesize": "*",
+    "request": "*"
   },
   "devDependencies": {
     "mocha": "latest",
